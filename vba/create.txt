@@ -1,0 +1,14 @@
+Function searchdata(i As Integer)
+  Range("J6").Select
+End Function
+
+Function insertdata(i As Integer)
+  Range("J6").Select
+End Function
+
+Function updatedata(i As Integer)
+  Range("J6").Select
+End Function
+
+Function deletedata(i As Integer)
+End Function
